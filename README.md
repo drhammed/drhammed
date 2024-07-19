@@ -110,13 +110,9 @@ I'm a Data scientist and Machine learning enthusiast passionate about transformi
 ## Contact Me
 
 <p align="left">
- 
  <a href="https://www.linkedin.com/in/hammedadedamolaakande/" target="_blank"> <img src="https://github.com/drhammed/drhammed/blob/main/LinkedIn.png" alt="LinkedIn" width="40" height="40"/> </a>
- 
  <a href="https://github.com/drhammed" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> </a>
- 
 <a href="https://twitter.com/drhammed" target="_blank"> <img src="https://github.com/drhammed/drhammed/blob/main/Twitter%20Logo.png" alt="X (formerly Twitter)" width="40" height="40"/> </a>
-
 <a href="mailto:akandehammedadedamola@gmail.com" target="_blank"> <img src="https://github.com/drhammed/drhammed/blob/main/Gmail_Logo.png" alt="Gmail" width="40" height="40"/> </a>
 </p>
 
