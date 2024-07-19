@@ -28,7 +28,7 @@ I'm a Data scientist and Machine learning enthusiast passionate about transformi
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> </a>
 <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> </a>
-<a href="https://www.tableau.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="Tableau" width="40" height="40"/> </a>
+<a href="https://www.tableau.com/" target="_blank"> <img src="https://github.com/drhammed/drhammed/blob/main/Tableau-Logo-768x432.png" alt="Tableau" width="40" height="40"/> </a>
 <a href="https://streamlit.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="40" height="40"/> </a>
 <a href="https://www.langchain.com/" target="_blank"> <img src="https://github.com/langchain-ai/langchain/blob/master/docs/static/img/brand/theme-image.png" width="40" height="40"/> </a>
 <a href="https://www.openai.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/OpenAI_Logo.svg" alt="OpenAI" width="40" height="40"/> </a>
