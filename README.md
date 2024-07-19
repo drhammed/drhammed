@@ -32,7 +32,7 @@ I'm a Data scientist and Machine learning enthusiast passionate about transformi
 <a href="https://streamlit.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="40" height="40"/> </a>
 <a href="https://www.langchain.com/" target="_blank"> <img src="https://github.com/langchain-ai/langchain/blob/master/docs/static/img/brand/theme-image.png" width="40" height="40"/> </a>
 <a href="https://www.openai.com/" target="_blank"> <img src="https://github.com/drhammed/drhammed/blob/main/OpenAI.jpg" alt="OpenAI" width="40" height="40"/> </a>
-<a href="https://groq.com/" target="_blank"> <img src="https://groq.com/wp-content/uploads/2020/12/groq-logo.svg" alt="Groq" width="40" height="40"/> </a>
+<a href="https://groq.com/" target="_blank"> <img src="https://github.com/RMNCLDYO/groq-ai-toolkit/blob/main/.github/groq-logo.png" alt="Groq" width="40" height="40"/> </a>
 <a href="https://www.voyageai.com/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1244260074137503744/41ZcG49m_400x400.jpg" alt="Voyage AI" width="40" height="40"/> </a>
 <a href="https://www.pinecone.io/" target="_blank"> <img src="https://static.wixstatic.com/media/2c52b2_01e0f139af1a4ff8bda621a9246b6d1b~mv2.png/v1/fill/w_256,h_256,al_c,usm_0.66_1.00_0.01/2c52b2_01e0f139af1a4ff8bda621a9246b6d1b~mv2.png" alt="Pinecone" width="40" height="40"/> </a>
 <a href="https://www.esri.com/en-us/arcgis/about-arcgis/overview" target="_blank"> <img src="https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/ArcGIS.svg" alt="ArcGIS" width="40" height="40"/> </a>
