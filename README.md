@@ -35,7 +35,7 @@ I'm a Data scientist and Machine learning enthusiast passionate about transformi
 <a href="https://groq.com/" target="_blank"> <img src="https://github.com/RMNCLDYO/groq-ai-toolkit/blob/main/.github/groq-logo.png" alt="Groq" width="40" height="40"/> </a>
 <a href="https://www.voyageai.com/" target="_blank"> <img src="https://github.com/drhammed/drhammed/blob/main/Voyage_AI.png" alt="Voyage AI" width="40" height="40"/> </a>
 <a href="https://www.pinecone.io/" target="_blank"> <img src="https://github.com/pinecone-io/pinecone-python-client/blob/main/docs/favicon-32x32.png" alt="Pinecone" width="40" height="40"/> </a>
-<a href="https://www.esri.com/en-us/arcgis/about-arcgis/overview" target="_blank"> <img src="https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/ArcGIS.svg" alt="ArcGIS" width="40" height="40"/> </a>
+<a href="https://www.esri.com/en-us/arcgis/about-arcgis/overview" target="_blank"> <img src="https://github.com/drhammed/drhammed/blob/main/ArcGIS_logo.png" alt="ArcGIS" width="40" height="40"/> </a>
 </p>
 
 
