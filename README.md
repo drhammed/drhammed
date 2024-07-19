@@ -11,18 +11,8 @@ I'm a Data scientist and Machine learning enthusiast passionate about transformi
 - 📫 You can reach me via email: [akandehammedadedamola@gmail.com](mailto:akandehammedadedamola@gmail.com)
 - ⚡ Fun fact: I enjoy travelling, hiking and exploring new technologies in my free time.
 
-## Skills
 
-- **Programming and Data Analysis**: Python, R, TensorFlow, Data Manipulation, Data Collection
-- **Statistical Analysis and Forecasting**: Time Series, ARIMA, SARIMA, PROPHET, Bayesian Modeling, SPSS
-- **Cloud Computing and Database Management**: MySQL, AWS, Oracle Cloud, Google Cloud, Pinecone
-- **DevOps/Infrastructure**: Docker, Git, GitHub
-- **Data Visualization and Web Development**: Tableau, ggplot2, Matplotlib, Seaborn, Streamlit, Chainlit, Flask APIs, HTML, CSS
-- **Generative AI**: OpenAI, Groq, RAG, LangChain, Voyage AI
-- **Geospatial and GIS**: ArcGIS Pro, ArcGIS, GDAL
-  
-
-### Languages and Tools
+### Skills
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://www.r-project.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
@@ -34,6 +24,14 @@ I'm a Data scientist and Machine learning enthusiast passionate about transformi
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)](https://www.tableau.com/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)](https://www.openai.com/)
 [![ArcGIS](https://img.shields.io/badge/ArcGIS-0067A3?logo=arcgis&logoColor=white)](https://www.esri.com/en-us/arcgis/about-arcgis/overview)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![LangChain](https://img.shields.io/badge/LangChain-000000?logo=langchain&logoColor=white)](https://www.langchain.com/)
+[![Groq](https://img.shields.io/badge/Groq-00AEEF?logo=groq&logoColor=white)](https://groq.com/)
+[![Voyage AI](https://img.shields.io/badge/Voyage%20AI-FF4B4B?logo=voyage&logoColor=white)](https://www.voyageai.com/)
+[![Pinecone](https://img.shields.io/badge/Pinecone-39A78E?logo=pinecone&logoColor=white)](https://www.pinecone.io/)
 
 
 ## Projects
