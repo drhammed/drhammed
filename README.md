@@ -16,25 +16,27 @@ I'm a Data scientist and Machine learning enthusiast passionate about transformi
 
 ### Programming Languages and Tools
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" alt="Python" width="40" height="40"/>](https://www.python.org/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/r.svg" alt="R" width="40" height="40"/>](https://www.r-project.org/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tensorflow.svg" alt="TensorFlow" width="40" height="40"/>](https://www.tensorflow.org/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" alt="MySQL" width="40" height="40"/>](https://www.mysql.com/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg" alt="PostgreSQL" width="40" height="40"/>](https://www.postgresql.org/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" alt="AWS" width="40" height="40"/>](https://aws.amazon.com/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/oracle.svg" alt="Oracle Cloud" width="40" height="40"/>](https://www.oracle.com/cloud/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlecloud.svg" alt="Google Cloud" width="40" height="40"/>](https://cloud.google.com/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" alt="Docker" width="40" height="40"/>](https://www.docker.com/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" width="40" height="40"/>](https://github.com/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" alt="Git" width="40" height="40"/>](https://git-scm.com/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tableau.svg" alt="Tableau" width="40" height="40"/>](https://www.tableau.com/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/streamlit.svg" alt="Streamlit" width="40" height="40"/>](https://streamlit.io/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/langchain.svg" alt="LangChain" width="40" height="40"/>](https://www.langchain.com/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/openai.svg" alt="OpenAI" width="40" height="40"/>](https://www.openai.com/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/groq.svg" alt="Groq" width="40" height="40"/>](https://groq.com/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/voyageai.svg" alt="Voyage AI" width="40" height="40"/>](https://www.voyageai.com/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pinecone.svg" alt="Pinecone" width="40" height="40"/>](https://www.pinecone.io/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/arcgis.svg" alt="ArcGIS" width="40" height="40"/>](https://www.esri.com/en-us/arcgis/about-arcgis/overview)
+<p align="left">
+<a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
+<a href="https://www.r-project.org/" target="_blank"> <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="40" height="40"/> </a>
+<a href="https://www.tensorflow.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/> </a>
+<a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/> </a>
+<a href="https://www.oracle.com/cloud/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle Cloud" width="40" height="40"/> </a>
+<a href="https://cloud.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> </a>
+<a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> </a>
+<a href="https://www.tableau.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="Tableau" width="40" height="40"/> </a>
+<a href="https://streamlit.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="40" height="40"/> </a>
+<a href="https://www.langchain.com/" target="_blank"> <img src="https://raw.githubusercontent.com/da-devicons/devicon/master/icons/langchain/langchain-original.svg" alt="LangChain" width="40" height="40"/> </a>
+<a href="https://www.openai.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openai/openai-original.svg" alt="OpenAI" width="40" height="40"/> </a>
+<a href="https://groq.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groq/groq-original.svg" alt="Groq" width="40" height="40"/> </a>
+<a href="https://www.voyageai.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/voyageai/voyageai-original.svg" alt="Voyage AI" width="40" height="40"/> </a>
+<a href="https://www.pinecone.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pinecone/pinecone-original.svg" alt="Pinecone" width="40" height="40"/> </a>
+<a href="https://www.esri.com/en-us/arcgis/about-arcgis/overview" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arcgis/arcgis-original.svg" alt="ArcGIS" width="40" height="40"/> </a>
+</p>
 
 
 ## Projects
