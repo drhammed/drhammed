@@ -7,8 +7,8 @@ I'm a Data scientist and Machine learning enthusiast passionate about transformi
 - 📍 I'm based in Canada (Open to Remote and Relocate)
 - 🌱 I’m currently advancing my knowledge in Generative AI, Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG).
 - 👯 I’m looking to collaborate on open-source projects and innovative AI solutions.
-- 💬 Ask me about R, Python, Machine Learning, Data Analysis, Chatbot, LLMs, Natural Language Processing, Deep Learning, MLOps and Cloud Computing.
-- 📫 How to reach me: [akandehammedadedamola@gmail.com](mailto:akandehammedadedamola@gmail.com)
+- 💬 I'm happy to chat about R, Python, Machine Learning, Data Analysis, Chatbots, LLMs, Natural Language Processing, Deep Learning, MLOps and Cloud Computing.
+- 📫 You can reach me via email: [akandehammedadedamola@gmail.com](mailto:akandehammedadedamola@gmail.com)
 - ⚡ Fun fact: I enjoy travelling, hiking and exploring new technologies in my free time.
 
 ## Skills
