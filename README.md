@@ -108,10 +108,14 @@ I'm a Data scientist and Machine learning enthusiast passionate about transformi
 - Excel to Python (Vector Institute)
 
 ## Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hammedadedamolaakande/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/drhammed)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/drhammed)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:akandehammedadedamola@gmail.com)
+
+<p align="left">
+ <a href="https://www.linkedin.com/in/hammedadedamolaakande/" target="_blank"> <img src="https://github.com/drhammed/drhammed/blob/main/LinkedIn.png" alt="LinkedIn" width="40" height="40"/> </a>
+ <a href="https://github.com/drhammed" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> </a>
+<a href="https://twitter.com/drhammed" target="_blank"> <img src="https://github.com/drhammed/drhammed/blob/main/Twitter%20Logo.png" alt="X (formerly Twitter)" width="40" height="40"/> </a>
+<a href="mailto:akandehammedadedamola@gmail.com" target="_blank"> <img src="https://github.com/drhammed/drhammed/blob/main/Gmail_Logo.png" alt="Gmail" width="40" height="40"/> </a>
+</p>
+
 
 
 
