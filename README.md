@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/devicons@2.14.0/css/devicons.min.css">
+
 # Hi there, I'm Hammed A. Akande! 👋
 
 I'm a Data scientist and Machine learning enthusiast passionate about transforming complex data into actionable insights. With extensive experience in deploying scalable AI solutions on cloud platforms and a strong background in statistical analysis and data visualization, I'm dedicated to delivering data-driven solutions that enhance business outcomes.
@@ -13,25 +15,26 @@ I'm a Data scientist and Machine learning enthusiast passionate about transformi
 
 
 ### Programming Languages and Tools
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://www.r-project.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?logo=oracle&logoColor=white)](https://www.oracle.com/cloud/)
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white)](https://cloud.google.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/)
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)](https://www.tableau.com/)
-[![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)](https://www.openai.com/)
-[![ArcGIS](https://img.shields.io/badge/ArcGIS-0067A3?logo=arcgis&logoColor=white)](https://www.esri.com/en-us/arcgis/about-arcgis/overview)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![LangChain](https://img.shields.io/badge/LangChain-000000?logo=langchain&logoColor=white)](https://www.langchain.com/)
-[![Groq](https://img.shields.io/badge/Groq-00AEEF?logo=groq&logoColor=white)](https://groq.com/)
-[![Voyage AI](https://img.shields.io/badge/Voyage%20AI-FF4B4B?logo=voyage&logoColor=white)](https://www.voyageai.com/)
-[![Pinecone](https://img.shields.io/badge/Pinecone-39A78E?logo=pinecone&logoColor=white)](https://www.pinecone.io/)
+
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" alt="Python" width="40" height="40"/>](https://www.python.org/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/r.svg" alt="R" width="40" height="40"/>](https://www.r-project.org/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tensorflow.svg" alt="TensorFlow" width="40" height="40"/>](https://www.tensorflow.org/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" alt="MySQL" width="40" height="40"/>](https://www.mysql.com/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg" alt="PostgreSQL" width="40" height="40"/>](https://www.postgresql.org/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" alt="AWS" width="40" height="40"/>](https://aws.amazon.com/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/oracle.svg" alt="Oracle Cloud" width="40" height="40"/>](https://www.oracle.com/cloud/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlecloud.svg" alt="Google Cloud" width="40" height="40"/>](https://cloud.google.com/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" alt="Docker" width="40" height="40"/>](https://www.docker.com/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" width="40" height="40"/>](https://github.com/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" alt="Git" width="40" height="40"/>](https://git-scm.com/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tableau.svg" alt="Tableau" width="40" height="40"/>](https://www.tableau.com/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/streamlit.svg" alt="Streamlit" width="40" height="40"/>](https://streamlit.io/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/langchain.svg" alt="LangChain" width="40" height="40"/>](https://www.langchain.com/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/openai.svg" alt="OpenAI" width="40" height="40"/>](https://www.openai.com/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/groq.svg" alt="Groq" width="40" height="40"/>](https://groq.com/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/voyageai.svg" alt="Voyage AI" width="40" height="40"/>](https://www.voyageai.com/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pinecone.svg" alt="Pinecone" width="40" height="40"/>](https://www.pinecone.io/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/arcgis.svg" alt="ArcGIS" width="40" height="40"/>](https://www.esri.com/en-us/arcgis/about-arcgis/overview)
 
 
 ## Projects
