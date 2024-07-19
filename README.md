@@ -12,7 +12,7 @@ I'm a Data scientist and Machine learning enthusiast passionate about transformi
 - ⚡ Fun fact: I enjoy travelling, hiking and exploring new technologies in my free time.
 
 
-### Skills
+### Programming Languages and Tools
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://www.r-project.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
