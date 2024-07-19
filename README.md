@@ -30,7 +30,7 @@ I'm a Data scientist and Machine learning enthusiast passionate about transformi
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> </a>
 <a href="https://www.tableau.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="Tableau" width="40" height="40"/> </a>
 <a href="https://streamlit.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="40" height="40"/> </a>
-<a href="https://www.langchain.com/" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmaster-langchain-pinecone-openai-build-llm-applications%2F&psig=AOvVaw06T7jQAPXcBo4wMUDXAhaO&ust=1721456606350000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOib96O8socDFQAAAAAdAAAAABAJ" width="40" height="40"/> </a>
+<a href="https://www.langchain.com/" target="_blank"> <img src="https://github.com/langchain-ai/langchain/blob/master/docs/static/img/brand/theme-image.png" width="40" height="40"/> </a>
 <a href="https://www.openai.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/OpenAI_Logo.svg" alt="OpenAI" width="40" height="40"/> </a>
 <a href="https://groq.com/" target="_blank"> <img src="https://groq.com/wp-content/uploads/2020/12/groq-logo.svg" alt="Groq" width="40" height="40"/> </a>
 <a href="https://www.voyageai.com/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1244260074137503744/41ZcG49m_400x400.jpg" alt="Voyage AI" width="40" height="40"/> </a>
