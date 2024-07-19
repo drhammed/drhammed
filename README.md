@@ -89,9 +89,9 @@ I'm a Data scientist and Machine learning enthusiast passionate about transformi
 - Excel to Python (Vector Institute)
 
 ## Contact Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hammedadedamolaakande/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/drhammed)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/drhammed)
 
-- [LinkedIn](https://www.linkedin.com/in/hammedadedamolaakande/)
-- [GitHub](https://github.com/drhammed)
-- [Twitter](https://twitter.com/drhammed)
 
 Feel free to connect with me or explore my projects. I'm always open to new opportunities and collaborations!
