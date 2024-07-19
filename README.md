@@ -16,7 +16,7 @@ I'm a Data scientist and Machine learning enthusiast passionate about transformi
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://www.r-project.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?logo=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.zluri.com%2Fcatalog%2Faws-management-console%2F&psig=AOvVaw3WmdaSb9g-M6gTQco1mEMF&ust=1721455755479000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDp-sm4socDFQAAAAAdAAAAABAE&logoColor=white)](https://aws.amazon.com/)
 [![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?logo=oracle&logoColor=white)](https://www.oracle.com/cloud/)
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
