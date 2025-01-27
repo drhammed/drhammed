@@ -48,11 +48,11 @@ I'm a Data scientist and Machine learning enthusiast passionate about transformi
  - **Duration**: Aug'24 — Present
  - **Location**: Montreal, Canada
   
-    - Package Development: Built and deployed a custom Large Language Model (LLM) software for research synthesis and high-level text summarization, using open-source LLM models (Llama) to streamline systematic literature reviews and synthesize information.
-    - Automated Summarization: Developed advanced summarization capabilities, enabling researchers to extract key insights from large volumes of literature efficiently, thereby accelerating systematic reviews.
-    - Scalability and Modularity: Structured the package with a modular design to support flexibility in research applications, enabling easy scaling and integration with diverse research workflows.
-    - Documentation and Usability: Curated detailed documentation, including example workflows and best practices, to assist users in quickly adopting and customizing the tool for their specific research needs.
-    - Version Control and Community Engagement: Leveraged GitHub for version control, encouraging collaboration and community contributions to continuously improve functionality and user experience.
+    - **Package Development**: Built and deployed a custom Large Language Model (LLM) software for research synthesis and high-level text summarization, using open-source LLM models (Llama) to streamline systematic literature reviews and synthesize information.
+    - **Automated Summarization**: Developed advanced summarization capabilities, enabling researchers to extract key insights from large volumes of literature efficiently, thereby accelerating systematic reviews.
+    - **Scalability and Modularity**: Structured the package with a modular design to support flexibility in research applications, enabling easy scaling and integration with diverse research workflows.
+    - **Documentation and Usability**: Curated detailed documentation, including example workflows and best practices, to assist users in quickly adopting and customizing the tool for their specific research needs.
+    - **Version Control and Community Engagement**: Leveraged GitHub for version control, encouraging collaboration and community contributions to continuously improve functionality and user experience.
 
 
 ### [GDriveOps- a Python Package for Handling GoogleDrive Files](https://pypi.org/project/GDriveOps/) 
@@ -60,14 +60,14 @@ I'm a Data scientist and Machine learning enthusiast passionate about transformi
  - **Duration**: Jul '24 — Present
  - **Location**: Montreal, Canada
  
-     - Package Development: Developed a comprehensive Python package named GDriveOps to streamline interactions with Google Drive, enabling seamless file operations such as download, upload, and conversion.
-     - File Management Functions: Implemented core functions for downloading PDFs from Google Drive, converting PDFs to text, and uploading text files back to Google Drive, ensuring efficient file handling and processing.
-     - Error Handling and Optimization: Integrated robust error handling and optimization techniques to ensure the package performs reliably under several conditions and minimizes potential disruptions during file operations.
-     - Unit Testing: Designed and implemented extensive unit tests to ensure the reliability and correctness of the package's functionalities, achieving high code coverage and maintaining code quality.
-     - Documentation and Usability: Provided comprehensive documentation, including usage examples and detailed instructions, to facilitate ease of use and quick integration for end-users and developers.
-     - Modular Design: Adopted a modular design approach, allowing for easy maintenance, extension, and customization of the package, catering to different user requirements and evolving project needs.
-     - Version Control and Collaboration: Utilized GitHub for version control and collaborative development, maintaining a well-structured and organized repository to support community contributions and continuous improvement.
-     - API Integration: Implemented flexible API integration capabilities to enhance the package's interoperability with other tools and services, providing users with a versatile and powerful solution for Google Drive operations.
+     - **Package Development**: Developed a comprehensive Python package named _GDriveOps_ to streamline interactions with Google Drive, enabling seamless file operations such as download, upload, and conversion.
+     - **File Management Functions**: Implemented core functions for downloading PDFs from Google Drive, converting PDFs to text, and uploading text files back to Google Drive, ensuring efficient file handling and processing.
+     - **Error Handling and Optimization**: Integrated robust error handling and optimization techniques to ensure the package performs reliably under several conditions and minimizes potential disruptions during file operations.
+     - **Unit Testing**: Designed and implemented extensive unit tests to ensure the reliability and correctness of the package's functionalities, achieving high code coverage and maintaining code quality.
+     - **Documentation and Usability**: Provided comprehensive documentation, including usage examples and detailed instructions, to facilitate ease of use and quick integration for end-users and developers.
+     - **Modular Design**: Adopted a modular design approach, allowing for easy maintenance, extension, and customization of the package, catering to different user requirements and evolving project needs.
+     - **Version Control and Collaboration**: Utilized GitHub for version control and collaborative development, maintaining a well-structured and organized repository to support community contributions and continuous improvement.
+     - **API Integration**: Implemented flexible API integration capabilities to enhance the package's interoperability with other tools and services, providing users with a versatile and powerful solution for Google Drive operations.
 
 
 ### [Chatbot for Scholarship Information](https://scholarship-chatbot-24.streamlit.app/)
@@ -76,13 +76,12 @@ I'm a Data scientist and Machine learning enthusiast passionate about transformi
  - **Location**: Montreal, Canada
  
      - Developed an AI-powered chatbot (using large language models) that provides users with detailed information about scholarships, including eligibility criteria, application processes, and deadlines. Hosted the chatbot on Heroku, allowing users to ask questions and receive personalized scholarship guidance.
-       
-     - Design and Implementation: Designed the chatbot’s architecture and developed it using large language models. Created a detailed system prompt to guide the chatbot's interactions, ensuring it provides accurate and relevant information.
-     - Integration: Integrated LangChain for natural language processing and used OpenAI and Groq for the AI model.
-     - Backend Development: Utilized Flask to build the backend infrastructure, including creating APIs for handling user requests and responses. Implemented routes and request handlers to manage the chatbot’s functionalities.
-     - Deployment: Deployed the chatbot on Heroku, making it accessible to users online. Documented the entire project on GitHub, including setup instructions and usage details.
-     - User Interaction and Experience: Implemented a conversation memory feature to maintain context over multiple interactions. Enhanced user experience by applying clickable link formatting to responses.
-     - Achievements: Successfully created a functional chatbot that assists users in finding and applying for scholarships. Enhanced user experience by implementing clickable link formatting and a structured interaction process.
+     - **Design and Implementation**: Designed the chatbot’s architecture and developed it using large language models. Created a detailed system prompt to guide the chatbot's interactions, ensuring it provides accurate and relevant information.
+     - **Integration**: Integrated LangChain for natural language processing and used OpenAI and Groq for the AI model.
+     - **Backend Development**: Utilized Flask to build the backend infrastructure, including creating APIs for handling user requests and responses. Implemented routes and request handlers to manage the chatbot’s functionalities.
+     - **Deployment**: Deployed the chatbot on Heroku, making it accessible to users online. Documented the entire project on GitHub, including setup instructions and usage details.
+     - **User Interaction and Experience**: Implemented a conversation memory feature to maintain context over multiple interactions. Enhanced user experience by applying clickable link formatting to responses.
+     - **Achievements**: Successfully created a functional chatbot that assists users in finding and applying for scholarships. Enhanced user experience by implementing clickable link formatting and a structured interaction process.
      - **Technologies**: Python, LangChain, OpenAI, Groq, Flask, Heroku, GitHub
 
 
@@ -91,12 +90,12 @@ I'm a Data scientist and Machine learning enthusiast passionate about transformi
  - **Location**: Toronto (Remote), Canada
      
      - Developed an AI-driven chatbot to provide information on diabetes to patients. The chatbot offers users concise and relevant answers to their queries about diabetes management.
-     - Design and Implementation: I designed and developed the chatbot’s architecture using large language models.
-     - Integration: Integrated LangChain for natural language processing and Voyage AI for vector embeddings. Used Pinecone for vector storage and retrieval, enhancing the chatbot's response accuracy. Employed the Groq platform to enhance the chatbot’s AI capabilities.
-     - Deployment: I deployed the chatbot on Streamlit, making it accessible to users online. Managed data storage and retrieval using AWS services and documented the entire project on GitHub.
-     - Retrieval-Augmented Generation (RAG) Approach: Implemented a RAG approach to improve the quality and relevance of the chatbot’s responses. Combined information retrieval and generation techniques to provide comprehensive and precise answers.
-     - User Interaction and Experience: Enhanced user experience by applying clickable link formatting to responses and providing pre-signed URLs for additional information. Implemented conversation memory to maintain context over multiple interactions.
-     - Achievements: Successfully created a functional chatbot that assists patients in understanding and managing diabetes. Improved the chatbot’s user interaction flow, resulting in a more intuitive and helpful user experience.
+     - **Design and Implementation**: I designed and developed the chatbot’s architecture using large language models.
+     - **Integration**: Integrated LangChain for natural language processing and Voyage AI for vector embeddings. Used Pinecone for vector storage and retrieval, enhancing the chatbot's response accuracy. Employed the Groq platform to enhance the chatbot’s AI capabilities.
+     - **Deployment**: I deployed the chatbot on Streamlit, making it accessible to users online. Managed data storage and retrieval using AWS services and documented the entire project on GitHub.
+     - **Retrieval-Augmented Generation (RAG) Approach**: Implemented a RAG approach to improve the quality and relevance of the chatbot’s responses. Combined information retrieval and generation techniques to provide comprehensive and precise answers.
+     - **User Interaction and Experience**: Enhanced user experience by applying clickable link formatting to responses and providing pre-signed URLs for additional information. Implemented conversation memory to maintain context over multiple interactions.
+     - **Achievements**: Successfully created a functional chatbot that assists patients in understanding and managing diabetes. Improved the chatbot’s user interaction flow, resulting in a more intuitive and helpful user experience.
      - **Technologies**: Python, Streamlit, LangChain, OpenAI, Pinecone, Voyage AI, Groq, AWS (S3, EC2 & Lambda), GitHub
 
 
@@ -106,11 +105,11 @@ I'm a Data scientist and Machine learning enthusiast passionate about transformi
  - **Duration**: Jan '23 — Apr '23
  - **Location**: Kingston (Remote), Canada
      - Developed machine learning models to forecast greenhouse gas emissions in Canada and assess how Canada can meet its climate targets as part of the Global Methane Pledge.
-     - Data Analysis: Collected and preprocessed historical (30 years) greenhouse gas emission data for Canada. Conducted exploratory data analysis to identify trends and patterns in the data.
-     - Model Development: Developed time series forecasting models using SARIMA and Prophet to predict future emissions. Validated and optimized the models to ensure accurate forecasts.
-     - Evaluation and Reporting: Evaluated Canada’s climate policies and their effectiveness in meeting emission targets. Projected future emission scenarios based on different policy interventions. Created visualizations and interactive Jupyter Notebooks to communicate findings.
-     - Documentation and Collaboration: Documented the entire project process and findings on GitHub. Collaborated with team to refine models and improve analysis.
-     - Achievements: Successfully developed accurate forecasting models that provide valuable insights into Canada’s progress toward emission reduction targets. Contributed to policymaking by offering data-driven recommendations and projections.
+     - **Data Analysis**: Collected and preprocessed historical (30 years) greenhouse gas emission data for Canada. Conducted exploratory data analysis to identify trends and patterns in the data.
+     - **Model Development**: Developed time series forecasting models using SARIMA and Prophet to predict future emissions. Validated and optimized the models to ensure accurate forecasts.
+     - **Evaluation and Reporting**: Evaluated Canada’s climate policies and their effectiveness in meeting emission targets. Projected future emission scenarios based on different policy interventions. Created visualizations and interactive Jupyter Notebooks to communicate findings.
+     - **Documentation and Collaboration**: Documented the entire project process and findings on GitHub. Collaborated with team to refine models and improve analysis.
+     - **Achievements**: Successfully developed accurate forecasting models that provide valuable insights into Canada’s progress toward emission reduction targets. Contributed to policymaking by offering data-driven recommendations and projections.
      - **Technologies**: Python, SARIMA, Prophet, Pandas, Matplotlib, Jupyter Notebooks, GitHub
 
 
