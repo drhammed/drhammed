@@ -48,14 +48,15 @@ I'm a Data scientist and Machine learning enthusiast passionate about transformi
  - **Duration**: Aug'24 — Present
  - **Location**: Montreal, Canada
   
-- Package Development: Built and deployed a custom Large Language Model (LLM) software for research synthesis and high-level text summarization, using open-source LLM models (Llama) to streamline systematic literature reviews and synthesize information.
-- Automated Summarization: Developed advanced summarization capabilities, enabling researchers to extract key insights from large volumes of literature efficiently, thereby accelerating systematic reviews.
+    - Package Development: Built and deployed a custom Large Language Model (LLM) software for research synthesis and high-level text summarization, using open-source LLM models (Llama) to streamline systematic literature reviews and synthesize information.
+    - Automated Summarization: Developed advanced summarization capabilities, enabling researchers to extract key insights from large volumes of literature efficiently, thereby accelerating systematic reviews.
     - Scalability and Modularity: Structured the package with a modular design to support flexibility in research applications, enabling easy scaling and integration with diverse research workflows.
     - Documentation and Usability: Curated detailed documentation, including example workflows and best practices, to assist users in quickly adopting and customizing the tool for their specific research needs.
     - Version Control and Community Engagement: Leveraged GitHub for version control, encouraging collaboration and community contributions to continuously improve functionality and user experience.
 
 
 ### [GDriveOps- a Python Package for Handling GoogleDrive Files](https://github.com/drhammed/GDriveOps) 
+ 
  **Duration**: Jul '24 — Present
  **Location**: Montreal, Canada
  
