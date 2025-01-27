@@ -55,7 +55,7 @@ I'm a Data scientist and Machine learning enthusiast passionate about transformi
     - Version Control and Community Engagement: Leveraged GitHub for version control, encouraging collaboration and community contributions to continuously improve functionality and user experience.
 
 
-### [GDriveOps- a Python Package for Handling GoogleDrive Files](https://github.com/drhammed/GDriveOps) 
+### [GDriveOps- a Python Package for Handling GoogleDrive Files](https://pypi.org/project/GDriveOps/) 
  
  - **Duration**: Jul '24 — Present
  - **Location**: Montreal, Canada
