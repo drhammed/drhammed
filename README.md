@@ -71,8 +71,10 @@ I'm a Data scientist and Machine learning enthusiast passionate about transformi
 
 
 ### [Chatbot for Scholarship Information](https://scholarship-chatbot-24.streamlit.app/)
- **Duration**: Jun '24 — Present
- **Location**: Montreal, Canada
+ 
+ - **Duration**: Jun '24 — Present
+ - **Location**: Montreal, Canada
+ 
      - Developed an AI-powered chatbot (using large language models) that provides users with detailed information about scholarships, including eligibility criteria, application processes, and deadlines. Hosted the chatbot on Heroku, allowing users to ask questions and receive personalized scholarship guidance.
              - Design and Implementation: Designed the chatbot’s architecture and developed it using large language models. Created a detailed system prompt to guide the chatbot's interactions, ensuring it provides accurate and relevant information.
              - Integration: Integrated LangChain for natural language processing and used OpenAI and Groq for the AI model.
