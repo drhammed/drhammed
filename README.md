@@ -76,10 +76,15 @@ I'm a Data scientist and Machine learning enthusiast passionate about transformi
  - **Location**: Montreal, Canada
  
      - Developed an AI-powered chatbot (using large language models) that provides users with detailed information about scholarships, including eligibility criteria, application processes, and deadlines. Hosted the chatbot on Heroku, allowing users to ask questions and receive personalized scholarship guidance.
+       
              - Design and Implementation: Designed the chatbot’s architecture and developed it using large language models. Created a detailed system prompt to guide the chatbot's interactions, ensuring it provides accurate and relevant information.
+
              - Integration: Integrated LangChain for natural language processing and used OpenAI and Groq for the AI model.
+
              - Backend Development: Utilized Flask to build the backend infrastructure, including creating APIs for handling user requests and responses. Implemented routes and request handlers to manage the chatbot’s functionalities.
+
              - Deployment: Deployed the chatbot on Heroku, making it accessible to users online. Documented the entire project on GitHub, including setup instructions and usage details.
+
              - User Interaction and Experience: Implemented a conversation memory feature to maintain context over multiple interactions. Enhanced user experience by applying clickable link formatting to responses.
      
      - Achievements: Successfully created a functional chatbot that assists users in finding and applying for scholarships. Enhanced user experience by implementing clickable link formatting and a structured interaction process.
