@@ -57,8 +57,8 @@ I'm a Data scientist and Machine learning enthusiast passionate about transformi
 
 ### [GDriveOps- a Python Package for Handling GoogleDrive Files](https://github.com/drhammed/GDriveOps) 
  
- **Duration**: Jul '24 — Present
- **Location**: Montreal, Canada
+ - **Duration**: Jul '24 — Present
+ - **Location**: Montreal, Canada
  
      - Package Development: Developed a comprehensive Python package named GDriveOps to streamline interactions with Google Drive, enabling seamless file operations such as download, upload, and conversion.
      - File Management Functions: Implemented core functions for downloading PDFs from Google Drive, converting PDFs to text, and uploading text files back to Google Drive, ensuring efficient file handling and processing.
