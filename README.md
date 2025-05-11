@@ -117,37 +117,43 @@ I'm a Data scientist and Machine learning enthusiast passionate about transformi
 
 ## Experience
 
-### Data Scientist (Machine Learning), Iter Innovandi
- - **Duration**: Jun '24 - Jan '25
+### Prompt Engineer and Machine Learning Associate, Vector Institute
+ - **Duration**: Feb'25 - Present
+ - **Location**: Toronto, Canada (Remote)
+     -  Working with Vector Institute and Monark Inc. on AI-driven leadership optimization, advancing leadership development through cutting-edge Generative AI and prompt engineering techniques (Chain of Thought and ReAct).
+     -  Developed an advanced 1:1 meeting module featuring dynamic summarization logic that extracts actionable items and produces both concise and detailed summaries.
+     -  Worked on an insight generation framework by integrating a knowledge graph (Neo4j) with a vectorized database,leveraging Retrieval-Augmented Generation (RAG) techniques for personalized leadership insights. I also worked extensively on sentiment analysis, clarity scores, and trend analysis to develop personalized insight for users.
+     -  Developed a prompt-based scoring system to ensure alignment between AI and Human Subject Matter Expert assessments.
+     -  Generated synthetic data that simulates realistic leadership‑meeting transcripts and user‑query scenarios, producing large,privacy‑safe, richly annotated corpora used to evaluate Gemini‑ and Llama‑based LLMs, improving model accuracy and reducing reliance on scarce real‑world data.
+     -  Built and deployed a custom Large Language Model (LLM) for high-level meeting summarization, using Gemini and Llama to provide summaries, key takeaways and action items and synthesize information.
+     -  Conducted data-driven research on using different AI models, prompt techniques and reinforcement learning with human feedback (RLHF).
+     -  Developed several iterations of prompts to train LLM (Gemini) and compare the model ratings with human expert ratings.
+     -  Monitored the performance of LLM applications (LLMOps), using an open-source platform.
+     -  Kept track of different prompt versions using an open-source application.
+     -  Maintained well-documented codebases with Git/GitHub version control, supporting continuous integration and facilitating efficient project management.
+     -  Collaborated with product management, software engineering, and data science teams to drive product development and ensure timely delivery  
+
+### Prompt Engineer and Data Scientist (Machine Learning), Iter Innovandi
+ - **Duration**: Oct '24 - Jan '25
  - **Location**: Montreal, Canada (Remote)
      - Developed an AI voice agent to revolutionize user interactions using Large Language Models (LLMs), Natural Language Processing (NLP), and Generative AI.
      - Conducted in-depth research on various LLMs to identify the most suitable models for the AI voice agent and implemented them to optimize performance for voice recognition and response generation.
-     - Developed and integrated advanced NLP techniques to enhance the AI voice agent's ability to understand and respond to spoken language accurately.
+     - Developed and integrated advanced NLP techniques to enhance the AI voice agent's ability to understand and respond to spoken languages accurately.
      - Designed, trained, and fine-tuned machine learning models to improve the accuracy and responsiveness of the AI voice agent, utilizing various machine learning algorithms and deep learning methods.
-     - Collected and processed voice data to ensure high-quality inputs for model training and validation and conducted exploratory data analysis to identify patterns and insights.
-     - Collaborated with cross-functional teams to integrate the AI voice agent with other systems and services, performed rigorous testing and validation to ensure effective operation in real-world scenarios.
-     - Continuously monitoring the performance of the AI voice agent, implementing updates and optimizations as needed, and staying updated with the latest advancements in LLMs, NLP, and AI technologies to leverage cutting-edge solutions.
-
-
-### Quantitative Data Scientist (Research Assistant), Concordia University
- - **Duration**: Sep '20 — Jan '25
- - **Location**: Montreal, QC, Canada
-     - Built and deployed a custom Large Language Model (LLM) software for research synthesis and high-level text summarization, using open-source LLM models (LLama) to streamline systematic literature reviews and synthesize information.
-     - Conducted data-driven research using extensive datasets on species distributions and climate change impacts, applying statistical tools using Python, R, and Bayesian inference for in-depth analysis.
-     - Developed machine learning models to forecast species distribution under climate change, leveraging regression techniques and random forests to model habitat suitability and migration patterns.
-     - Applied Bayesian Statistics to model species responses to environmental changes, focusing on how migration patterns influence specialization.
-     - Collaborated with cross-disciplinary teams (from Canada, USA, UK, and Africa) to integrate ecological forecasting models with real-world environmental data, improving conservation strategies through predictive analytics.
-
+     - Processed voice data to ensure high-quality inputs for model training and validation.
+     - Collaborated with cross-functional teams to integrate the AI voice agent with other systems and services and performed rigorous testing and validation to ensure effective operation in real-world scenarios.
+     - Monitored the performance of the AI voice agent, implementing updates and optimizations as needed and staying updated with the latest advancements in LLMs, NLP, and AI technologies to leverage cutting-edge solutions. 
  
-### Data Scientist (Machine Learning), Dankore Software LLC
+### Prompt Engineer and Data Scientist (Machine Learning), Dankore Software LLC
  - **Duration**: May '24 — Oct '24
  - **Location**: Iowa, United States (Remote)
-     - Built a chatbot using Retrieval-Augmented Generation (RAG) and the Langchain framework to enhance user interaction and support. This project integrates advanced NLP techniques to create a conversational AI capable of understanding and responding to complex queries, improving customer service and engagement.
-     - Worked on data collection, cleaning, and processing to ensure high-quality data for analysis.
+     - Built a chatbot using Retrieval-Augmented Generation (RAG) and the LangChain framework to enhance user interaction and support. This project integrates advanced NLP techniques to create a conversational AI capable of understanding and responding to complex queries, improving customer service and engagement.
+     - Worked on data collection, cleaning, and preprocessing to ensure high-quality data for analysis.
+     - Conducted data analysis projects to identify key trends and insights, aiding in strategic planning.
      - Assisted in software engineering tasks, contributing to the overall development process.
-
+     
 ### Full-Stack Data & LLM Solution Developer, Brave Career
- - **Duration**: Apr '24 — Present
+ - **Duration**: Apr '24 — May'24
  - **Location**: Toronto, Canada (Remote)
      - Developed AI-driven chatbots to revolutionize patient education using Generative AI and Retrieval-Augmented Generation (RAG) techniques.
      - Leveraged Large Language Models (LLM) and LangChain to create intelligent, responsive conversational agents.
@@ -161,32 +167,47 @@ I'm a Data scientist and Machine learning enthusiast passionate about transformi
      - Implemented and developed machine learning (ML) models and initiatives to drive business value and innovation.
      - Staying updated with emerging technologies and integrating them into solutions.
 
-### Biostatistics Teaching Assistant, Concordia University
- - **Duration**: Sep '20 — Apr '24
- - **Location**: Montreal, QC, Canada
-     - Assisted the Professor in delivering course tutorials and laboratory sessions on various biostatistics topics (including Regression Analysis, Correlation Analysis, Analysis of Variance, and Principal Component Analysis) to over 30 students.
-     - Conducted weekly classes to reinforce students' understanding of statistical concepts and answer questions.
-     - Provided guidance and feedback to students on weekly assignments, reports, and projects, promoting their comprehension and academic success. 
-     - Graded assignments, exams, and projects in a timely and fair manner, providing constructive feedback to help students improve their skills and interests in R Programming.
-     - Interpreted complex statistical concepts and communicated them effectively to students.
-     - Encouraged intellectual curiosity and creativity among students through hands-on experimentation with data.
+### Data Scientist (Machine Learning), Calian Group LTD
+ - **Duration**: Jan '23 — Apr '24
+ - **Location**: Kingston, ON, Canada (Remote)
+     - Collected and cleaned ~30 years' time series data on methane emissions in Canada, ensuring data accuracy.
+     - Utilized machine learning techniques to analyze data and extract insights.
+     - Applied statistical and time series forecasting techniques in Python (ARIMA, SARIMA, & PROPHET) to interpret key points from gathered data.
+     - Modelled predictions with feature selection algorithms.
+     - Provided comprehensive analysis and recommended solutions to address complex business problems and issues using data from different sources and applied advanced analytical methods to assess methane emissions in Canada and across provinces.
+     - Proven track record of delivering high-quality data analysis and insights.
 
-### Advanced Statistics Teaching Assistant, Concordia University
+### Data Scientist, Future Earth and Sustainability in the Digital Age
 
- - **Duration**: Sep '23 — Dec '23
+ - **Duration**: Jan '21 — Jan '23
  - **Location**: Montreal, QC, Canada
-     - Assisted the Professor in teaching Quantitative Research Methods (Statistical Analysis for Social Science Research) to about 30 PhD students using SPSS software. Topics in this course include Hypothesis testing, Analysis of Variance, Correlation, Regression Analysis, Hierarchical Regression, Mixed models, Factor analysis, and Principal Component Analysis.
-     - Responsible for preparing and presenting practical sessions associated with the course and grading submissions.
-     - Meeting with students to present practical aspects of the course, including using the SPSS software to run statistical analysis.
-     - Demonstrated strong communication skills by explaining complex statistical methods clearly.
-     - Promoted collaboration and teamwork among students during projects and assignments.
+     - Conducted bibliographic search and paper analysis to gather relevant information.
+     - Supported "Environmental Sustainability in the Digital Age" convening co-hosted by the United Nations Environment Program, Future Earth Canada, and the Sustainability in the Digital Age initiative, including coordination of preparatory materials, assistance during the convening, and support in developing outputs from the convening.
+     - Supported the Biodiversity Pathways to Sustainability Canada (BPSC) initiative by reviewing the literature, assisted in coordinating interns, and supported the BPSC workshop, and other activities as needed.
+     - Managed research projects and demonstrated strong organizational skills.
+     - Developed awareness about environmental sustainability through data-driven research and analysis.
+     
+
+### Technical Support, Gexel and Zeniox
+
+ - **Duration**: Nov'19 - Jan'21
+ - **Location**: Montreal, QC, Canada
+     - Provided technical support electronically with users via chat, email, and phone and helped them solve their cellular camera's hardware or software-related difficulties.
+     - Utilized the knowledge base (repository of technical troubleshooting documentation) and flowcharts, user manuals, and other available resources to diagnose problems and implement solutions.
+     - Helped users to install and update the firmware on their cellular cameras either manually using a computer or remotely.
+     - Troubleshoot technical and non-technical issues that the customers might be having using company's tools and skills.
+     - Identified customers' needs of company's products and services and met Quality (KPI) and customer satisfaction metrics.
+     - Escalated issues to senior-level support when needed (via ZENDESK and SALESFORCE) and provided actionable information and appropriate documentation for the next agent.
+     - Ensured proper documentation of all customers' issues.
+     - Demonstrated strong communication skills and a proven track record of meeting customer satisfaction metrics.
+
 
 ## Education
 
-- **PhD in Biology (Quantitative Ecology)**, Concordia University (Sep '20 — Apr '25)
-- **Professional Certificate in Data Science and Machine Learning**, McGill University (Apr '22 — Dec '24)
-- **Master of Science in IWRM**, McGill University (Aug '18 — Oct '19)
-- **Bachelor of Science in Wildlife & Environmental Management**, Osun State University (Sep '11 — Sep '16)
+- **PhD in Biology (Quantitative Ecology)**, Concordia University (ABD)
+- **Professional Certificate in Data Science and Machine Learning**, McGill University 2025
+- **Master of Science in IWRM**, McGill University 2019
+- **Bachelor of Science in Wildlife & Environmental Management**, Osun State University 2016
 
 ## Certifications
 
