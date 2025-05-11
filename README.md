@@ -2,7 +2,9 @@
 
 # Hi there, I'm Hammed A. Akande! 👋
 
-I'm a Data scientist and Machine learning enthusiast passionate about transforming complex data into actionable insights. With extensive experience in deploying scalable AI solutions on cloud platforms and a strong background in statistical analysis and data visualization, I'm dedicated to delivering data-driven solutions that enhance business outcomes.
+I'm a highly motivated and detail-oriented Data Scientist with expertise in statistical modelling, machine learning, Bayesian Statistics, Large Language Models (LLMs), and Prompt Engineering. Skilled in transforming complex datasets into actionable insights, I leverage tools like Python, R, SQL, Tableau, Alteryx, and Google Earth Engine to deliver impactful solutions.
+With extensive experience in cloud computing (AWS, GCP, Oracle) and advanced AI tools (OpenAI, LangChain, Gemini, GroqAI), I apply cutting-edge technologies—including LLMs, Prompt Engineering, Retrieval-Augmented Generation (RAG), and Vector Databases—to develop scalable AI agents and data-driven systems.
+
 
 ## About Me
 
