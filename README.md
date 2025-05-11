@@ -120,7 +120,7 @@ I'm a Data scientist and Machine learning enthusiast passionate about transformi
 ### Prompt Engineer and Machine Learning Associate, Vector Institute
  - **Duration**: Feb'25 - Present
  - **Location**: Toronto, Canada (Remote)
-     -  Working with Vector Institute and Monark Inc. on AI-driven leadership optimization, advancing leadership development through cutting-edge Generative AI and prompt engineering techniques (Chain of Thought and ReAct).
+     -  Working on AI-driven leadership optimization, advancing leadership development through cutting-edge Generative AI and prompt engineering techniques (Chain of Thought and ReAct).
      -  Developed an advanced 1:1 meeting module featuring dynamic summarization logic that extracts actionable items and produces both concise and detailed summaries.
      -  Worked on an insight generation framework by integrating a knowledge graph (Neo4j) with a vectorized database,leveraging Retrieval-Augmented Generation (RAG) techniques for personalized leadership insights. I also worked extensively on sentiment analysis, clarity scores, and trend analysis to develop personalized insight for users.
      -  Developed a prompt-based scoring system to ensure alignment between AI and Human Subject Matter Expert assessments.
@@ -204,10 +204,10 @@ I'm a Data scientist and Machine learning enthusiast passionate about transformi
 
 ## Education
 
-- **PhD in Biology (Quantitative Ecology)**, Concordia University (ABD)
+- **PhD in Quant. & Statistical Biology**, Concordia University (ABD)
 - **Professional Certificate in Data Science and Machine Learning**, McGill University 2025
 - **Master of Science in IWRM**, McGill University 2019
-- **Bachelor of Science in Wildlife & Environmental Management**, Osun State University 2016
+- **Bachelor of Science in Environmental**, Osun State University 2016
 
 ## Certifications
 
